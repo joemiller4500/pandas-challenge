@@ -1,2 +1,2 @@
 # pandas-challenge
-Repository to hold week 4 pandas homework
+Early work with Pandas library for Python
